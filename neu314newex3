@@ -1,0 +1,7 @@
+#Neu314 Exercise 3
+#For github use
+#Problem 1
+figure(1)
+picture= imread("el-capitan.png")
+imshow(picture)
+size(picture)
